@@ -17,6 +17,7 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/AndersonDinizDev/projects-thumbnail/master/hamburguer-app.png" alt="exemplo imagem"/>
+  <img src="https://raw.githubusercontent.com/AndersonDinizDev/projects-thumbnail/master/hamburguer-app-orders.png" alt="exemplo imagem"/>
  </p>
 
 ## ✨ Features:
