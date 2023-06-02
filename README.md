@@ -42,7 +42,7 @@ The following tools were used in this project:
 
 ```bash
 # Clone this project
-$ git clone https://github.com/andersondinizdev/portfolio.git
+$ git clone https://github.com/andersondinizdev/hamburguer-app.git
 # Access
 $ cd hamburguer-app
 # open the terminal and type
