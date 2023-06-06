@@ -51,4 +51,4 @@ $ npm i or npm install
 $ yarn start
 # The server will initialize in the <http://127.0.0.1:3000>
 ```
-[⬆ Voltar ao topo](#Burger-Code-Club)<br>
+[⬆ Voltar ao topo](#Burger-App)<br>
