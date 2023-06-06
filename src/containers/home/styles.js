@@ -15,7 +15,7 @@ export const ContainerItens = styled.div`
   flex-direction: column;
   align-items: center;
   width: 414px;
-  height: 70%;
+  height: auto;
   background: black;
   border-radius: 25px;
 
