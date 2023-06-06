@@ -1,4 +1,4 @@
-# Burger-App
+# Hamburguer-App
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -51,4 +51,4 @@ $ npm i or npm install
 $ yarn start
 # The server will initialize in the <http://127.0.0.1:3000>
 ```
-[⬆ Voltar ao topo](#Burger-App)<br>
+[⬆ Voltar ao topo](#Hamburguer-App)<br>
