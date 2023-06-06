@@ -39,9 +39,9 @@ const OrdersApp = () => {
         <H1>Faça seu pedido!</H1>
         <LoginContent>
           <LabelInput>Pedido</LabelInput>
-          <Input ref={inputOrder} />
+          <Input placeholder="1 Coca-Cola, 1 X-Salada" ref={inputOrder} />
           <LabelInput>Nome do Cliente</LabelInput>
-          <Input ref={inputClient} />
+          <Input placeholder="Jorge" ref={inputClient} />
           <Button onClick={addNewOrder}>Novo Pedido</Button>
         </LoginContent>
       </ContainerItens>
