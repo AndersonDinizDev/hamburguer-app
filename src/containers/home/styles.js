@@ -18,6 +18,7 @@ export const ContainerItens = styled.div`
   height: auto;
   background: black;
   border-radius: 25px;
+  padding: 15px;
 
   img {
     width: 40%;
