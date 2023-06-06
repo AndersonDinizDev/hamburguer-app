@@ -23,7 +23,7 @@ const OrdersApp = () => {
   const navigate = useNavigate();
 
   async function addNewOrder() {
-    const { data: newOrder } = await Axios.post("http://localhost:3001/order", {
+    const { data: newOrder } = await Axios.post("https://lucent-starburst-13ab0a.netlify.app/.netlify/functions/api/order", {
       name: inputClient.current.value,
       order: inputOrder.current.value,
     });
