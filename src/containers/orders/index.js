@@ -16,7 +16,7 @@ const App = () => {
   useEffect(() => {
     async function fetchOrders() {
       const { data: newOrders } = await Axios.get(
-        "http://localhost:3001/order"
+        "https://lucent-starburst-13ab0a.netlify.app/.netlify/functions/api/order"
       );
 
       setOrders(newOrders);
@@ -27,7 +27,7 @@ const App = () => {
 
   async function deleteUser(ordersId) {
     
-    await Axios.delete(`http://localhost:3001/order/${ordersId}`)
+    await Axios.delete(`https://lucent-starburst-13ab0a.netlify.app/.netlify/functions/api/order/${ordersId}`)
 
     const newOrders = orders.filter((orders) => orders.id === ordersId);
 
